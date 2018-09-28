@@ -1,0 +1,300 @@
+Initialized native services in: /home/georgybronnikov/.gradle/native
+The client will now receive all logging from the daemon (pid: 23346). The daemon log file: /home/georgybronnikov/.gradle/daemon/4.6/daemon-23346.out.log
+Starting 141st build in daemon [uptime: 10 hrs 8 mins 40.898 secs, performance: 80%, GC rate: 0.05/s, tenured heap usage: 99% of 1.1 GB]
+Using 8 worker leases.
+Starting Build
+Settings evaluated using settings file '/home/georgybronnikov/src/SpeechDetector/settings.gradle'.
+Projects loaded. Root project using build file '/home/georgybronnikov/src/SpeechDetector/build.gradle'.
+Included projects: [root project 'SpeechDetector', project ':app', project ':funf-math', project ':jvmBinaries', project ':speechdetection']
+Evaluating root project 'SpeechDetector' using build file '/home/georgybronnikov/src/SpeechDetector/build.gradle'.
+Evaluating project ':app' using build file '/home/georgybronnikov/src/SpeechDetector/app/build.gradle'.
+Creating configuration androidTestUtil
+Creating configuration compile
+Creating configuration apk
+Creating configuration provided
+Creating configuration api
+Creating configuration implementation
+Creating configuration runtimeOnly
+Creating configuration compileOnly
+Creating configuration wearApp
+Creating configuration annotationProcessor
+Creating configuration androidTestCompile
+Creating configuration androidTestApk
+Creating configuration androidTestProvided
+Creating configuration androidTestApi
+Creating configuration androidTestImplementation
+Creating configuration androidTestRuntimeOnly
+Creating configuration androidTestCompileOnly
+Creating configuration androidTestWearApp
+Creating configuration androidTestAnnotationProcessor
+Creating configuration testCompile
+Creating configuration testApk
+Creating configuration testProvided
+Creating configuration testApi
+Creating configuration testImplementation
+Creating configuration testRuntimeOnly
+Creating configuration testCompileOnly
+Creating configuration testWearApp
+Creating configuration testAnnotationProcessor
+Creating configuration debugCompile
+Creating configuration debugApk
+Creating configuration debugProvided
+Creating configuration debugApi
+Creating configuration debugImplementation
+Creating configuration debugRuntimeOnly
+Creating configuration debugCompileOnly
+Creating configuration debugWearApp
+Creating configuration debugAnnotationProcessor
+Creating configuration androidTestDebugCompile
+Creating configuration androidTestDebugApk
+Creating configuration androidTestDebugProvided
+Creating configuration androidTestDebugApi
+Creating configuration androidTestDebugImplementation
+Creating configuration androidTestDebugRuntimeOnly
+Creating configuration androidTestDebugCompileOnly
+Creating configuration androidTestDebugWearApp
+Creating configuration androidTestDebugAnnotationProcessor
+Creating configuration testDebugCompile
+Creating configuration testDebugApk
+Creating configuration testDebugProvided
+Creating configuration testDebugApi
+Creating configuration testDebugImplementation
+Creating configuration testDebugRuntimeOnly
+Creating configuration testDebugCompileOnly
+Creating configuration testDebugWearApp
+Creating configuration testDebugAnnotationProcessor
+Creating configuration releaseCompile
+Creating configuration releaseApk
+Creating configuration releaseProvided
+Creating configuration releaseApi
+Creating configuration releaseImplementation
+Creating configuration releaseRuntimeOnly
+Creating configuration releaseCompileOnly
+Creating configuration releaseWearApp
+Creating configuration releaseAnnotationProcessor
+Creating configuration testReleaseCompile
+Creating configuration testReleaseApk
+Creating configuration testReleaseProvided
+Creating configuration testReleaseApi
+Creating configuration testReleaseImplementation
+Creating configuration testReleaseRuntimeOnly
+Creating configuration testReleaseCompileOnly
+Creating configuration testReleaseWearApp
+Creating configuration testReleaseAnnotationProcessor
+Parsing the SDK, no caching allowed
+SDK initialized in 13 ms
+Using incremental javac compilation for :app debug.
+Using incremental javac compilation for :app debugUnitTest.
+Using incremental javac compilation for :app release.
+Using incremental javac compilation for :app releaseUnitTest.
+Using incremental javac compilation for :app debugAndroidTest.
+Evaluating project ':funf-math' using build file '/home/georgybronnikov/src/SpeechDetector/funf-math/build.gradle'.
+Evaluating project ':jvmBinaries' using build file '/home/georgybronnikov/src/SpeechDetector/jvmBinaries/build.gradle'.
+Evaluating project ':speechdetection' using build file '/home/georgybronnikov/src/SpeechDetector/speechdetection/build.gradle'.
+Creating configuration androidTestUtil
+Creating configuration compile
+Creating configuration publish
+Creating configuration provided
+Creating configuration api
+Creating configuration implementation
+Creating configuration runtimeOnly
+Creating configuration compileOnly
+Creating configuration wearApp
+Creating configuration annotationProcessor
+Creating configuration androidTestCompile
+Creating configuration androidTestPublish
+Creating configuration androidTestProvided
+Creating configuration androidTestApi
+Creating configuration androidTestImplementation
+Creating configuration androidTestRuntimeOnly
+Creating configuration androidTestCompileOnly
+Creating configuration androidTestWearApp
+Creating configuration androidTestAnnotationProcessor
+Creating configuration testCompile
+Creating configuration testPublish
+Creating configuration testProvided
+Creating configuration testApi
+Creating configuration testImplementation
+Creating configuration testRuntimeOnly
+Creating configuration testCompileOnly
+Creating configuration testWearApp
+Creating configuration testAnnotationProcessor
+Creating configuration debugCompile
+Creating configuration debugPublish
+Creating configuration debugProvided
+Creating configuration debugApi
+Creating configuration debugImplementation
+Creating configuration debugRuntimeOnly
+Creating configuration debugCompileOnly
+Creating configuration debugWearApp
+Creating configuration debugAnnotationProcessor
+Creating configuration androidTestDebugCompile
+Creating configuration androidTestDebugPublish
+Creating configuration androidTestDebugProvided
+Creating configuration androidTestDebugApi
+Creating configuration androidTestDebugImplementation
+Creating configuration androidTestDebugRuntimeOnly
+Creating configuration androidTestDebugCompileOnly
+Creating configuration androidTestDebugWearApp
+Creating configuration androidTestDebugAnnotationProcessor
+Creating configuration testDebugCompile
+Creating configuration testDebugPublish
+Creating configuration testDebugProvided
+Creating configuration testDebugApi
+Creating configuration testDebugImplementation
+Creating configuration testDebugRuntimeOnly
+Creating configuration testDebugCompileOnly
+Creating configuration testDebugWearApp
+Creating configuration testDebugAnnotationProcessor
+Creating configuration releaseCompile
+Creating configuration releasePublish
+Creating configuration releaseProvided
+Creating configuration releaseApi
+Creating configuration releaseImplementation
+Creating configuration releaseRuntimeOnly
+Creating configuration releaseCompileOnly
+Creating configuration releaseWearApp
+Creating configuration releaseAnnotationProcessor
+Creating configuration testReleaseCompile
+Creating configuration testReleasePublish
+Creating configuration testReleaseProvided
+Creating configuration testReleaseApi
+Creating configuration testReleaseImplementation
+Creating configuration testReleaseRuntimeOnly
+Creating configuration testReleaseCompileOnly
+Creating configuration testReleaseWearApp
+Creating configuration testReleaseAnnotationProcessor
+Parsing the SDK, no caching allowed
+SDK initialized in 0 ms
+Using incremental javac compilation for :speechdetection debug.
+Using incremental javac compilation for :speechdetection debugUnitTest.
+Using incremental javac compilation for :speechdetection release.
+Using incremental javac compilation for :speechdetection releaseUnitTest.
+Using incremental javac compilation for :speechdetection debugAndroidTest.
+All projects evaluated.
+Analytics other plugin to proto: Unknown plugin type com.android.build.gradle.LibraryPlugin expected enum COM_ANDROID_BUILD_GRADLE_LIBRARYPLUGIN
+Analytics other plugin to proto: Unknown plugin type org.jetbrains.kotlin.gradle.plugin.KotlinMultiplatformPluginWrapper expected enum ORG_JETBRAINS_KOTLIN_GRADLE_PLUGIN_KOTLINMULTIPLATFORMPLUGINWRAPPER
+Selected primary task ':speechdetection:build' from project :speechdetection
+Tasks to be executed: [task ':speechdetection:preBuild', task ':speechdetection:preDebugBuild', task ':speechdetection:compileDebugAidl', task ':funf-math:compileJava', task ':funf-math:processResources', task ':funf-math:classes', task ':funf-math:jar', task ':speechdetection:compileDebugRenderscript', task ':speechdetection:checkDebugManifest', task ':speechdetection:generateDebugBuildConfig', task ':speechdetection:generateDebugResValues', task ':speechdetection:generateDebugResources', task ':speechdetection:packageDebugResources', task ':speechdetection:processDebugManifest', task ':speechdetection:generateDebugRFile', task ':speechdetection:compileDebugKotlinAndroid', task ':speechdetection:prepareLintJar', task ':speechdetection:generateDebugSources', task ':speechdetection:javaPreCompileDebug', task ':speechdetection:compileDebugJavaWithJavac', task ':speechdetection:extractDebugAnnotations', task ':speechdetection:mergeDebugConsumerProguardFiles', task ':speechdetection:mergeDebugShaders', task ':speechdetection:compileDebugShaders', task ':speechdetection:generateDebugAssets', task ':speechdetection:packageDebugAssets', task ':speechdetection:packageDebugRenderscript', task ':speechdetection:processDebugJavaRes', task ':speechdetection:transformResourcesWithMergeJavaResForDebug', task ':speechdetection:transformClassesAndResourcesWithSyncLibJarsForDebug', task ':speechdetection:compileDebugNdk', task ':speechdetection:mergeDebugJniLibFolders', task ':speechdetection:transformNativeLibsWithMergeJniLibsForDebug', task ':speechdetection:transformNativeLibsWithSyncJniLibsForDebug', task ':speechdetection:bundleDebugAar', task ':speechdetection:compileDebugSources', task ':speechdetection:assembleDebug', task ':speechdetection:preReleaseBuild', task ':speechdetection:compileReleaseAidl', task ':speechdetection:compileReleaseRenderscript', task ':speechdetection:checkReleaseManifest', task ':speechdetection:generateReleaseBuildConfig', task ':speechdetection:generateReleaseResValues', task ':speechdetection:generateReleaseResources', task ':speechdetection:packageReleaseResources', task ':speechdetection:processReleaseManifest', task ':speechdetection:generateReleaseRFile', task ':speechdetection:compileReleaseKotlinAndroid', task ':speechdetection:generateReleaseSources', task ':speechdetection:javaPreCompileRelease', task ':speechdetection:compileReleaseJavaWithJavac', task ':speechdetection:extractReleaseAnnotations', task ':speechdetection:mergeReleaseConsumerProguardFiles', task ':speechdetection:mergeReleaseShaders', task ':speechdetection:compileReleaseShaders', task ':speechdetection:generateReleaseAssets', task ':speechdetection:packageReleaseAssets', task ':speechdetection:packageReleaseRenderscript', task ':speechdetection:processReleaseJavaRes', task ':speechdetection:transformResourcesWithMergeJavaResForRelease', task ':speechdetection:transformClassesAndResourcesWithSyncLibJarsForRelease', task ':speechdetection:compileReleaseNdk', task ':speechdetection:mergeReleaseJniLibFolders', task ':speechdetection:transformNativeLibsWithMergeJniLibsForRelease', task ':speechdetection:transformNativeLibsWithSyncJniLibsForRelease', task ':speechdetection:bundleReleaseAar', task ':speechdetection:compileReleaseSources', task ':speechdetection:mergeReleaseResources', task ':speechdetection:verifyReleaseResources', task ':speechdetection:assembleRelease', task ':speechdetection:compileKotlinJvm', task ':speechdetection:jvmProcessResources', task ':speechdetection:jvmMainClasses', task ':speechdetection:jvmJar', task ':speechdetection:compileKotlinMetadata', task ':speechdetection:metadataMainClasses', task ':speechdetection:metadataJar', task ':speechdetection:assemble', task ':speechdetection:compileTestKotlinJvm', task ':speechdetection:jvmTestProcessResources', task ':speechdetection:jvmTestClasses', task ':speechdetection:jvmTest', task ':speechdetection:lint', task ':speechdetection:compileDebugUnitTestKotlinAndroid', task ':speechdetection:generateDebugUnitTestSources', task ':speechdetection:preDebugUnitTestBuild', task ':speechdetection:javaPreCompileDebugUnitTest', task ':speechdetection:compileDebugUnitTestJavaWithJavac', task ':speechdetection:processDebugUnitTestJavaRes', task ':speechdetection:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug', task ':speechdetection:testDebugUnitTest', task ':speechdetection:compileReleaseUnitTestKotlinAndroid', task ':speechdetection:generateReleaseUnitTestSources', task ':speechdetection:preReleaseUnitTestBuild', task ':speechdetection:javaPreCompileReleaseUnitTest', task ':speechdetection:compileReleaseUnitTestJavaWithJavac', task ':speechdetection:processReleaseUnitTestJavaRes', task ':speechdetection:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease', task ':speechdetection:testReleaseUnitTest', task ':speechdetection:test', task ':speechdetection:check', task ':speechdetection:build']
+:speechdetection:preBuild (Thread[Task worker for ':',5,main]) started.
+:speechdetection:preBuild
+Skipping task ':speechdetection:preBuild' as it has no actions.
+:speechdetection:preBuild UP-TO-DATE
+:speechdetection:preBuild (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:speechdetection:preDebugBuild (Thread[Task worker for ':',5,main]) started.
+:speechdetection:preDebugBuild
+Skipping task ':speechdetection:preDebugBuild' as it has no actions.
+:speechdetection:preDebugBuild UP-TO-DATE
+:speechdetection:preDebugBuild (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:speechdetection:compileDebugAidl (Thread[Task worker for ':',5,main]) started.
+:speechdetection:compileDebugAidl
+Skipping task ':speechdetection:compileDebugAidl' as it has no source files and no previous output files.
+:speechdetection:compileDebugAidl NO-SOURCE
+:speechdetection:compileDebugAidl (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:funf-math:compileJava (Thread[Task worker for ':',5,main]) started.
+:funf-math:compileJava
+Skipping task ':funf-math:compileJava' as it is up-to-date.
+:funf-math:compileJava UP-TO-DATE
+:funf-math:compileJava (Thread[Task worker for ':',5,main]) completed. Took 0.004 secs.
+:funf-math:processResources (Thread[Task worker for ':',5,main]) started.
+:funf-math:processResources
+file or directory '/home/georgybronnikov/src/SpeechDetector/funf-math/src/main/resources', not found
+Skipping task ':funf-math:processResources' as it has no source files and no previous output files.
+:funf-math:processResources NO-SOURCE
+:funf-math:processResources (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:funf-math:classes (Thread[Task worker for ':',5,main]) started.
+:funf-math:classes
+Skipping task ':funf-math:classes' as it has no actions.
+:funf-math:classes UP-TO-DATE
+:funf-math:classes (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:funf-math:jar (Thread[Task worker for ':',5,main]) started.
+:funf-math:jar
+Skipping task ':funf-math:jar' as it is up-to-date.
+:funf-math:jar UP-TO-DATE
+:funf-math:jar (Thread[Task worker for ':',5,main]) completed. Took 0.002 secs.
+:speechdetection:compileDebugRenderscript (Thread[Task worker for ':',5,main]) started.
+:speechdetection:compileDebugRenderscript
+Skipping task ':speechdetection:compileDebugRenderscript' as it is up-to-date.
+:speechdetection:compileDebugRenderscript UP-TO-DATE
+:speechdetection:compileDebugRenderscript (Thread[Task worker for ':',5,main]) completed. Took 0.014 secs.
+:speechdetection:checkDebugManifest (Thread[Task worker for ':',5,main]) started.
+:speechdetection:checkDebugManifest
+Skipping task ':speechdetection:checkDebugManifest' as it is up-to-date.
+:speechdetection:checkDebugManifest UP-TO-DATE
+:speechdetection:checkDebugManifest (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:speechdetection:generateDebugBuildConfig (Thread[Task worker for ':',5,main]) started.
+:speechdetection:generateDebugBuildConfig
+Skipping task ':speechdetection:generateDebugBuildConfig' as it is up-to-date.
+:speechdetection:generateDebugBuildConfig UP-TO-DATE
+:speechdetection:generateDebugBuildConfig (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:speechdetection:generateDebugResValues (Thread[Task worker for ':',5,main]) started.
+:speechdetection:generateDebugResValues
+Skipping task ':speechdetection:generateDebugResValues' as it is up-to-date.
+:speechdetection:generateDebugResValues UP-TO-DATE
+:speechdetection:generateDebugResValues (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:speechdetection:generateDebugResources (Thread[Task worker for ':',5,main]) started.
+:speechdetection:generateDebugResources
+Skipping task ':speechdetection:generateDebugResources' as it has no actions.
+:speechdetection:generateDebugResources UP-TO-DATE
+:speechdetection:generateDebugResources (Thread[Task worker for ':',5,main]) completed. Took 0.0 secs.
+:speechdetection:packageDebugResources (Thread[Task worker for ':',5,main]) started.
+:speechdetection:packageDebugResources
+Skipping task ':speechdetection:packageDebugResources' as it is up-to-date.
+:speechdetection:packageDebugResources UP-TO-DATE
+:speechdetection:packageDebugResources (Thread[Task worker for ':',5,main]) completed. Took 0.004 secs.
+:speechdetection:processDebugManifest (Thread[Task worker for ':',5,main]) started.
+:speechdetection:processDebugManifest
+Skipping task ':speechdetection:processDebugManifest' as it is up-to-date.
+:speechdetection:processDebugManifest UP-TO-DATE
+:speechdetection:processDebugManifest (Thread[Task worker for ':',5,main]) completed. Took 0.001 secs.
+:speechdetection:generateDebugRFile (Thread[Task worker for ':',5,main]) started.
+:speechdetection:generateDebugRFile
+Skipping task ':speechdetection:generateDebugRFile' as it is up-to-date.
+:speechdetection:generateDebugRFile UP-TO-DATE
+:speechdetection:generateDebugRFile (Thread[Task worker for ':',5,main]) completed. Took 0.004 secs.
+:speechdetection:compileDebugKotlinAndroid (Thread[Task worker for ':',5,main]) started.
+:speechdetection:compileDebugKotlinAndroid
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/androidDebug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/java', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/androidDebug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/java', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/main/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/main/java', not found
+Task ':speechdetection:compileDebugKotlinAndroid' is not up-to-date because:
+  Task has failed previously.
+All input files are considered out-of-date for incremental task ':speechdetection:compileDebugKotlinAndroid'.
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/androidDebug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/java', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/main/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/main/java', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/androidDebug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/debug/java', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/main/kotlin', not found
+file or directory '/home/georgybronnikov/src/SpeechDetector/speechdetection/src/main/java', not found
+Using Kotlin incremental compilation
+Options for KOTLIN DAEMON: IncrementalCompilationOptions(super=CompilationOptions(compilerMode=INCREMENTAL_COMPILER, targetPlatform=JVM, reportCategories=[0], reportSeverity=2, requestedCompilationResults=[0]), areFileChangesKnown=false, modifiedFiles=null, deletedFiles=null, workingDir=/home/georgybronnikov/src/SpeechDetector/speechdetection/build/kotlin/compileDebugKotlinAndroid, customCacheVersionFileName='gradle-format-version.txt', customCacheVersion=4, multiModuleICSettings=MultiModuleICSettings(buildHistoryFile=/home/georgybronnikov/src/SpeechDetector/speechdetection/build/kotlin/compileDebugKotlinAndroid/build-history.bin, useModuleDetection=true), usePreciseJavaTracking=truelocalStateDirs=[/home/georgybronnikov/src/SpeechDetector/speechdetection/build/tmp/kotlin-classes/debug])
+e: /home/georgybronnikov/src/SpeechDetector/speechdetection/src/commonMain/kotlin/FrameProducer.kt: (3, 36): Unresolved reference: Channel
+e: /home/georgybronnikov/src/SpeechDetector/speechdetection/src/commonMain/kotlin/FrameProducer.kt: (9, 30): Unresolved reference: Channel
+[KOTLIN] deleting /home/georgybronnikov/src/SpeechDetector/speechdetection/build/tmp/kotlin-classes/debug on error
+[KOTLIN] deleting /home/georgybronnikov/src/SpeechDetector/speechdetection/build/tmp/kotlin-classes/debug on error
+:speechdetection:compileDebugKotlinAndroid FAILED
+:speechdetection:compileDebugKotlinAndroid (Thread[Task worker for ':',5,main]) completed. Took 0.664 secs.
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':speechdetection:compileDebugKotlinAndroid'.
+> Compilation error. See log for more details
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 7s
+10 actionable tasks: 1 executed, 9 up-to-date
+VCS Checkout Cache (/home/georgybronnikov/src/SpeechDetector/.gradle/vcsWorkingDirs) has not been cleaned up in 0 days
